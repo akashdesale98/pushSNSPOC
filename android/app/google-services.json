@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536549420974",
+    "project_id": "vppocmaps",
+    "storage_bucket": "vppocmaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536549420974:android:f5f3b343a8f4fc6323a23f",
+        "android_client_info": {
+          "package_name": "com.pushsnstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536549420974-d6ob8ceausqcphal62l0fbqcto0nld28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pushsnstest",
+            "certificate_hash": "044d5418405bd9bec686e97f9f9aa6bea9eea1c4"
+          }
+        },
+        {
+          "client_id": "536549420974-0t962i92j9ms4hdkk6tkrcbd7jqvv5ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ-AmymgCAG_s6i7y-ZSHCgT_MSQUawMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536549420974-0t962i92j9ms4hdkk6tkrcbd7jqvv5ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
